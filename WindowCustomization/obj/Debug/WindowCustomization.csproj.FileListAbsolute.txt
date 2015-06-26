@@ -1,0 +1,5 @@
+C:\Users\karae\Documents\Visual Studio 2012\Projects\WindowCustomization\WindowCustomization\obj\Debug\WindowCustomization.csprojResolveAssemblyReference.cache
+C:\Users\karae\Documents\Visual Studio 2012\Projects\WindowCustomization\WindowCustomization\bin\Debug\WindowCustomization.dll
+C:\Users\karae\Documents\Visual Studio 2012\Projects\WindowCustomization\WindowCustomization\bin\Debug\WindowCustomization.pdb
+C:\Users\karae\Documents\Visual Studio 2012\Projects\WindowCustomization\WindowCustomization\obj\Debug\WindowCustomization.dll
+C:\Users\karae\Documents\Visual Studio 2012\Projects\WindowCustomization\WindowCustomization\obj\Debug\WindowCustomization.pdb
